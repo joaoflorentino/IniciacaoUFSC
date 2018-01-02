@@ -1,0 +1,17 @@
+\BOOKMARK [1][-]{section.1}{Resumo}{}% 1
+\BOOKMARK [1][-]{section.2}{Travamento em frequ\352ncia de lasers}{}% 2
+\BOOKMARK [1][-]{section.3}{Controle de Temperatura de laser de Diodo}{}% 3
+\BOOKMARK [1][-]{section.4}{Cronograma do plano de trabalho}{}% 4
+\BOOKMARK [1][-]{section.5}{Desenvolvimento}{}% 5
+\BOOKMARK [2][-]{subsection.5.1}{Objetivos}{section.5}% 6
+\BOOKMARK [2][-]{subsection.5.2}{Fun\347\343o de Transfer\352ncia}{section.5}% 7
+\BOOKMARK [2][-]{subsection.5.3}{T\351cnicas de elabora\347\343o de projeto}{section.5}% 8
+\BOOKMARK [3][-]{subsubsection.5.3.1}{Simula\347\365es Matlab Simulink }{subsection.5.3}% 9
+\BOOKMARK [2][-]{subsection.5.4}{Sensores e Atuadores}{section.5}% 10
+\BOOKMARK [3][-]{subsubsection.5.4.1}{Considera\347\365es Te\363ricas - Calor }{subsection.5.4}% 11
+\BOOKMARK [3][-]{subsubsection.5.4.2}{Transferencia de Calor}{subsection.5.4}% 12
+\BOOKMARK [2][-]{subsection.5.5}{Determina\347\343o das Fun\347\365es de Transfer\352ncia}{section.5}% 13
+\BOOKMARK [2][-]{subsection.5.6}{Determina\347\343o das constantes de ganho do PID}{section.5}% 14
+\BOOKMARK [1][-]{section.6}{Montagem do projeto}{}% 15
+\BOOKMARK [2][-]{subsection.6.1}{Esquema e PCB do circuito PID}{section.6}% 16
+\BOOKMARK [2][-]{subsection.6.2}{Especifica\347\365es dos Componentes}{section.6}% 17

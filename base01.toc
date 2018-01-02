@@ -1,0 +1,27 @@
+\select@language {brazil}
+\contentsline {section}{\numberline {1}Resumo}{3}{section.1}
+\contentsline {section}{\numberline {2}Travamento em frequ\IeC {\^e}ncia de lasers}{3}{section.2}
+\contentsline {section}{\numberline {3}Controle de Temperatura de laser de Diodo}{3}{section.3}
+\contentsline {section}{\numberline {4}Cronograma do plano de trabalho}{4}{section.4}
+\contentsline {section}{\numberline {5}Desenvolvimento}{4}{section.5}
+\contentsline {subsection}{\numberline {5.1}Objetivos}{6}{subsection.5.1}
+\contentsline {subsection}{\numberline {5.2}Fun\IeC {\c c}\IeC {\~a}o de Transfer\IeC {\^e}ncia}{6}{subsection.5.2}
+\contentsline {subsection}{\numberline {5.3}T\IeC {\'e}cnicas de elabora\IeC {\c c}\IeC {\~a}o de projeto}{7}{subsection.5.3}
+\contentsline {subsubsection}{\numberline {5.3.1}Simula\IeC {\c c}\IeC {\~o}es Matlab Simulink }{7}{subsubsection.5.3.1}
+\contentsline {subsection}{\numberline {5.4}Sensores e Atuadores}{9}{subsection.5.4}
+\contentsline {subsubsection}{\numberline {5.4.1}Considera\IeC {\c c}\IeC {\~o}es Te\IeC {\'o}ricas - Calor }{9}{subsubsection.5.4.1}
+\contentsline {subsubsection}{\numberline {5.4.2}Transferencia de Calor}{10}{subsubsection.5.4.2}
+\contentsline {subsection}{\numberline {5.5}Determina\IeC {\c c}\IeC {\~a}o das Fun\IeC {\c c}\IeC {\~o}es de Transfer\IeC {\^e}ncia}{12}{subsection.5.5}
+\contentsline {paragraph}{}{13}{section*.2}
+\contentsline {paragraph}{}{13}{section*.3}
+\contentsline {paragraph}{}{14}{section*.4}
+\contentsline {subsection}{\numberline {5.6}Determina\IeC {\c c}\IeC {\~a}o das constantes de ganho do PID}{14}{subsection.5.6}
+\contentsline {paragraph}{}{15}{section*.5}
+\contentsline {section}{\numberline {6}Montagem do projeto}{15}{section.6}
+\contentsline {subsection}{\numberline {6.1}Esquema e PCB do circuito PID}{16}{subsection.6.1}
+\contentsline {paragraph}{}{16}{section*.6}
+\contentsline {paragraph}{Esquema:}{17}{figure.9}
+\contentsline {paragraph}{Atualiza\IeC {\c c}\IeC {\~a}o de Projeto:}{17}{section*.8}
+\contentsline {subsection}{\numberline {6.2}Especifica\IeC {\c c}\IeC {\~o}es dos Componentes}{19}{subsection.6.2}
+\contentsline {paragraph}{}{21}{section*.10}
+\contentsline {paragraph}{Fonte de alimenta\IeC {\c c}\IeC {\~a}o Sim\IeC {\'e}trica $ \pm 12V $ para circuito PID}{25}{section*.11}

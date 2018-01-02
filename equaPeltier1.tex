@@ -1,0 +1,49 @@
+Em nosso sistema, para o controle de temperatura do emissor de LASER, temos o seguinte diagrama de blocos: \\
+
+\import{./}{diag}
+
+\paragraph{}
+
+Tendo-se conhecimento do funcionamento básico do bloco \emph{Peltier}, pode-se formular a \emph{Equação de Transferência} deste dispositivo que em nosso projeto atuará utilizando a propriedade de refrigeração para  reduzir a temperatura do \emph{LASER} até que se obtenha a temperatura desejada como setpoint.\\
+
+As propriedades termicas do Bloco Peltier, devem ser analisadas do lado quente e do lado frio, e assim obtemos a \emph{Equação de Transferência}. \\
+
+Procedendo esta análise chega-se a seguinte equação:\\
+
+\[\left ( M_{F}C_{F} + M_{H}C_{H}\right )\frac{dT_{H}}{dt}= -\frac{\left ( T_{H}- T_{a} \right )}{R_{th}} - kA_{m} \frac{dT(x,t)}{dx} + I n \alpha_{PN} T_{H}\] \\
+Onde temos:\\
+$M_{F}$ e $M_{H} $ - São as massas do dissipador e da placa cerâmica respectivamente;\\
+$ C_{F} $ e $ C_{H} $ - São seus calores específicos;\\
+$ T_{H} $ - É a temperatura do lado quente;\\
+$ T_{a} $ - É a temperatura do ambiente;\\
+$ R_{th} $ - É a Resistência térmica do dissipador;\\
+$A_{m} $ - É a área das placas cerâmicas do módulo de Peltier;\\
+$ dT(x,t) $ - É a temperatura do semicondutor a uma distância x e instante t;\\
+$ I $ - É a corrente fornecida ao módulo de Peltier;\\
+$ n $ - É o número de junções do módulo;\\
+$ \alpha_{PN} = \alpha_{P} - \alpha_{N}$ é a diferença entre os coeficientes de Seebeck para o semicondutor tipo P e tipo N. \\
+Através do catálogo do fabricante \emph{(data sheet- anexo)} obtemos os dados necessários para o calculo, que resulta na seguinte \emph{Equação de Transferência}:\\
+\[H(s)=\frac{4.5047}{50s+1}\]
+\paragraph{}
+Emissor LASER ECDL\\
+Sabendo-se que sistemas térmicos são sistemas lineares e através de aproximações tomadas da temperatura que pretendemos utilizar o sistema LASER ( $T_{uso}= 10ºC$ ), e adotando um tempo  $ \tau $ para que o emissor LASER atinja o valor de 63.2 $\%$ do degrau de temperatura, como sendo de 1 segundo teremos a seguinte \emph{Equação de Transferência}:\\
+\[H(s)= \frac{10}{s+1}\]\\
+\paragraph{}
+Para o sensor de temperatura que utilizaremos no projeto ( AD 590 ), analisando a curva de trabalho o sensor obtemos a seguinte relação:\\
+Variação de temperatura\\
+\[T_{min}=-55^{\circ}C \rightarrow T_{Max}=150^{\circ}C\]\\
+Variação de tensão ( utilizando-se um resistor de 10K$ \Omega $ para corrente de trabalho do sensor) temos:\\
+\[V_{min}=2.18 V \rightarrow V_{Max}=4,23 V\]\\
+Fazendo-se a relação temos o seguinte ganho:\\
+\[H(s)= \frac{1}{100}\]\\
+Com estas três \emph{Equação de Transferência}, podemos montar o circuito para determinação dos parâmetros do PID para estabilizar a tesão de referencia que nos dará a temperatura desejada de trabalho.\\
+
+
+
+
+
+
+
+
+
+ 

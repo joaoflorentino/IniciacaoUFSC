@@ -1,0 +1,152 @@
+\documentclass[a4paper, 12pt]{article}
+\usepackage{geometry}
+\geometry{paperwidth=210mm,paperheight=297mm,textwidth=160mm, textheight=210mm,top=30mm,bottom=20mm,left=30mm,right=20mm}
+\usepackage[utf8]{inputenc}
+\usepackage[brazil] {babel}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{import}
+\usepackage{multicol}
+\usepackage{multirow}
+\usepackage{verbatim}
+\usepackage{tikz}
+\usepackage{graphicx,xcolor}
+\usepackage{xwatermark}
+\usepackage{pgfplots}
+\pagenumbering{arabic}
+\usepackage{float}
+\usepackage{setspace}
+\setlength{\parindent}{2cm}
+\usepackage{hyperref}
+%pacote para desenho de diagramas de bloco e etc.
+\usepackage{tikz}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=magenta,      
+    urlcolor=cyan,
+}
+\urlstyle{same}
+
+\usepackage{ragged2e}
+\usepackage{tabularx,colortbl}
+\usepackage{cite}
+\usepackage{tikz} 
+% Inserção de Arquivos ANEXOS
+\usepackage{pdfpages}
+
+% Entrada de Marca D'agua
+%\newwatermark[allpages,angle=60,scale=2,color=blue!20]{J L C F}
+
+
+%%%% Tentativa 7 joao
+\title{
+		\RaggedRight 
+		\vspace{-0.25in} 	
+		\usefont{OT1}{bch}{b}{n}
+		\normalfont \normalsize \textsc{\textbf{Projeto de Iniciação Científica}
+		 (\textcolor{olive}{\textbf{Universidade Federal de Santa Catarina}})} \\ [10pt]
+		Período: \textcolor{blue}{2017-2/2018-1}\\
+		\huge Exploração e montagem de um circuito de controle de Feedback ativo para uso no laboratório de Física atômica (ATOMO LAB)
+}
+\author{		
+		\normalfont \normalsize
+		\RaggedRight
+        Docente orientador: Prof. Dr. Jorge Douglas Massayuki Kondo \\
+        Orientando: João Luis Calmon Florentino
+}
+\author{
+\RaggedRight
+Departamento: Departamento de Física\\
+Unidade: Centro de Ciências Físicas e Matemáticas (CFM) - UFSC\\
+E-mail: massayuki.kondo@ufsc.br\\
+Página eletrônica: \url{www.atomobrasil.com}
+}
+\date{Data: \today}
+
+
+
+
+\begin{document}
+%\RaggedLeft
+%\justifying
+\centering
+	\begin{figure}
+		\centering
+		\includegraphics[width=0.3\linewidth]{./ima/brasaoUFSC}
+		%\caption{}
+		\label{fig:brasaoufsc}
+	\end{figure}
+
+\RaggedRight
+\maketitle
+
+\newpage
+
+\tableofcontents \newpage
+%\pagebreak
+\section{Resumo}
+\import{./}{resumo1}
+
+\section{Travamento em frequência de lasers}
+\import{./}{travamento1}
+
+\section{Controle de Temperatura de laser de Diodo}
+\import{./}{tempDiodo}
+
+\section{Cronograma do plano de trabalho}
+\import{./}{cronograma1}
+
+\section{Desenvolvimento}
+\import{./}{desenv1}
+
+\subsection{Objetivos}
+\import{./}{objet1}
+
+\subsection{Função de Transferência}
+\import{./}{ftrsf01}
+
+\subsection{Técnicas de elaboração de projeto}
+\import{./}{tecpro01}
+
+	\subsubsection{Simulações Matlab Simulink }
+	\import{./}{simulink1}
+	
+\subsection{Sensores e Atuadores}
+\import{./}{sensoresAtuadores1}
+
+	\subsubsection{Considerações Teóricas - Calor }
+	\import{./}{calor1}
+	\subsubsection{Transferencia de Calor}
+	\import{./}{transferCalor1}
+
+\subsection{Determinação das Funções de Transferência}
+\import{./}{equaPeltier1}
+
+\subsection{Determinação das constantes de ganho do PID}
+\import{./}{analmatlab1}
+
+% capitulo de Montagem do Circuito - pos-estudos de projeto
+\section{Montagem do projeto}
+\import{./}{monte01}
+
+\subsection{Esquema e PCB do circuito PID}
+\import{./}{esquema1}
+
+\subsection{Especificações dos Componentes}
+\import{./}{componentes1}
+
+
+%Referencias do projeto 
+\bibliographystyle{unsrt}
+\bibliography{ref0A}{}
+
+%ANEXOS 
+\newpage
+% % \section{ANEXOS}
+\import{./}{anexos1}
+
+
+
+\end{document} 

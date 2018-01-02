@@ -1,0 +1,8 @@
+
+\par O objetivo deste circuito vem a ser a estabilização da temperatura do \emph{LASER}  na temperatura ajustada dinamicamente durante um ensaio de análise de amostras atômicas. 
+Como já descrito no resumo deste projeto, durante o processo a própria construção do \emph{LED} que emite o \emph{LASER} se aquece e este aquecimento altera as características do ajuste e desta forma necessita de um dispositivo de ajuste dinâmico. 
+
+Em sistemas de automação o circuito de \emph{PID} vem a ser o adotado para este tipo de controle. 
+Uma vez ajustado o set point do \emph{LASER} e com o aquecimento decorrente do tempo de uso, o controle \emph{PID} deve, estar projetado em um ajuste de amortecimento critico para mater o set point. 
+
+No equipamento está se pensando em usar um sensor de temperatura \emph{AD 590} ( características na lista de equipamentos) o qual já se tem conhecimento da adequação e que irá gerar o sinal de aquecimento que será convertido em um sinal de erro que será tratado pelo \emph{PID} que fará a compensação mantendo o set point. 

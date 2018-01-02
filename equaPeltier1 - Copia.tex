@@ -1,0 +1,51 @@
+Tendo-se conhecimento do funcionamento básico do bloco \emph{Peltier}, passa-se a formular a \emph{Equação de Transferência} deste equipamento que em nosso projeto atuará utilizando de seu recurso de refrigeração reduzir a temperatura do \emph{LASER} até que se obtenha a temperatura do setpoint.
+
+A troca de calor do Bloco Peltier, deve ser analisado do lado quente e do lado frio do bloco, desta forma serão obtidos o equacionamento necessário para formulação da \emph{Equação de Transferência}. \\
+
+Procedendo esta análise chega-se a seguinte equação:\\
+
+\[\left ( M_{F}C_{F} + M_{H}C_{H}\right )\frac{dT_{H}}{dt}= -\frac{\left ( T_{H}- T_{a} \right )}{R_{th}} - kA_{m} \frac{dT(x,t)}{dx} + I n \alpha_{PN} T_{H}\] \\
+
+Onde temos:\\
+$M_{F}$ e $M_{H} $ - São as massas do dissipador e da placa cerâmica respectivamente;\\
+$ C_{F} $ e $ C_{H} $ - São seus calores específicos;\\
+$ T_{H} $ - É a temperatura do lado quente;\\
+$ T_{a} $ - É a temperatura do ambiente;\\
+$ R_{th} $ - É a Resistência térmica do dissipador;\\
+$A_{m} $ - É a área das placas cerâmicas do módulo de Peltier;\\
+$ dT(x,t) $ - É a temperatura do semicondutor a uma distância x e instante t;\\
+$ I $ - É a corrente fornecida ao módulo de Peltier;\\
+$ n $ - É o número de junções do módulo;\\
+$ \alpha_{PN} = \alpha_{P} - \alpha_{N}$ é a diferença entre os coeficientes de Seebeck para o semicondutor tipo P e tipo N. \\
+
+Através dos catálogos dos fabricantes \emph{(data sheets)} extraimos os seguintes dados:
+
+\begin{table}[H]
+\centering
+\caption{Parâmetros de Catálogo}
+\label{my-label}
+\begin{tabular}{|r|l|}
+\hline
+\multicolumn{1}{|c|}{Parâmetros} & \multicolumn{1}{c|}{Valores} \\ \hline
+$\alpha\_\{PN\}$                   & 0.000530 V/K                 \\ \hline
+$\rho$                             & 0.00001 $\Omega$.m             \\ \hline
+L                                & 0.0025 m                     \\ \hline
+A                                & 0.00145 m                    \\ \hline
+n                                & 127 junções                  \\ \hline
+k                                & 1.2 W/m. K                   \\ \hline
+M\_\{C\},M\_\{H\}                & 0.05 kg                      \\ \hline
+M\_\{L\}                         & 0.7 kg                       \\ \hline
+M\_\{F\}                         & 0.6 kg                       \\ \hline
+C\_\{C\}, C\_\{H\}               & 1000 W/kg . K                \\ \hline
+C\_\{L\}                         & 400 W/kg . K                 \\ \hline
+C\_\{F\}                         & 850 W/kg . K                 \\ \hline
+$\gamma$                           & 200                          \\ \hline
+R\_\{th\}                        & 0.25 K/W                     \\ \hline
+T\_\{a\}                         & 25\textasciicircum o C       \\ \hline
+\end{tabular}
+\end{table}
+
+Com estes dados substituindo na equação acima obteremos a seguinte \emph{Equação de Transferência}. 
+
+
+ 

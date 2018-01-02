@@ -1,0 +1,51 @@
+\begin{thebibliography}{1}
+
+\bibitem{PhysRevA.90.023413}
+Jorge~M. Kondo, Luis~F. Gon\ifmmode~\mbox{\c{c}}\else \c{c}\fi{}alves, Jader~S.
+  Cabral, Jonathan Tallant, and Luis~G. Marcassa.
+\newblock Two-body f\"orster resonance involving rb $nd$ states in a
+  quasi-electrostatic trap.
+\newblock {\em Phys. Rev. A}, 90:023413, Aug 2014.
+
+\bibitem{4photonarxiv}
+Jorge~D. Kondo, Nikola \v{S}ibali\'c, Alexander Guttridge, Christopher~G. Wade,
+  Natalia~R. De~Melo, Charles~S. Adams, and Kevin~J. Weatherill.
+\newblock Observation of interference effects via four photon excitation of
+  highly excited rydberg states in thermal cesium vapor.
+\newblock {\em Arxiv.org}, http://arxiv.org/abs/1510.01729v2,2015.
+
+\bibitem{PhysRevA.93.043854}
+Daniel~J. Whiting, James Keaveney, Charles~S. Adams, and Ifan~G. Hughes.
+\newblock Direct measurement of excited-state dipole matrix elements using
+  electromagnetically induced transparency in the hyperfine paschen-back
+  regime.
+\newblock {\em Phys. Rev. A}, 93:043854, Apr 2016.
+
+\bibitem{RevModPhys.77.783}
+John Bechhoefer.
+\newblock Feedback for physicists: A tutorial essay on control.
+\newblock {\em Rev. Mod. Phys.}, 77:783--836, Aug 2005.
+
+\bibitem{florian:Thesis:2015}
+Florian Seidler.
+\newblock {Digital high bandwidth feedback controller}.
+\newblock Master's thesis, Institute fur Angewandte Physik, Germany, 2015.
+
+\bibitem{ogata2003}
+Katsuhiko Ogata et~al.
+\newblock Engenharia de controle moderno; tradu{\c{c}}{\~a}o paulo {\'a}lvaro
+  maya; revis{\~a}o t{\'e}cnica fabrizio leonardi.[et al].
+\newblock {\em S{\~a}o Paulo: Prentice Hall}, 12:15--17, 2003.
+
+\bibitem{userguide}
+Alberto Bemporad, Manfred Morari, and N~Lawrence Ricker.
+\newblock Model predictive control toolbox user’s guide.
+\newblock {\em The mathworks}, 2010.
+
+\bibitem{huang2000system}
+BJ~Huang and CL~Duang.
+\newblock System dynamic model and temperature control of a thermoelectric
+  cooler.
+\newblock {\em International journal of refrigeration}, 23(3):197--207, 2000.
+
+\end{thebibliography}
