@@ -23,5 +23,6 @@
 \contentsline {paragraph}{Esquema:}{17}{figure.9}
 \contentsline {paragraph}{Atualiza\IeC {\c c}\IeC {\~a}o de Projeto:}{17}{section*.8}
 \contentsline {subsection}{\numberline {6.2}Especifica\IeC {\c c}\IeC {\~o}es dos Componentes}{19}{subsection.6.2}
-\contentsline {paragraph}{}{21}{section*.10}
-\contentsline {paragraph}{Fonte de alimenta\IeC {\c c}\IeC {\~a}o Sim\IeC {\'e}trica $ \pm 12V $ para circuito PID}{25}{section*.11}
+\contentsline {section}{\numberline {7}Conclus\IeC {\~a}o}{20}{section.7}
+\contentsline {paragraph}{}{22}{section*.10}
+\contentsline {paragraph}{Fonte de alimenta\IeC {\c c}\IeC {\~a}o Sim\IeC {\'e}trica $ \pm 12V $ para circuito PID}{26}{section*.11}

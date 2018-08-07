@@ -1,0 +1,18 @@
+Durante o projeto do sistema atuador de regulagem de temperatura \emph{PID}, objetivo da iniciação científica do \emph{LabAtomo} da UFSC, a pesquisa iniciou-se com a pesquisa baseada em um sistema que utilizasse circuitos discretos ( resistores, capacitores, indutores, diodos, amplificadores operacionais, etc ) para implementação do controle \emph{PID}.
+
+Em um projeto de circuito de controle \textbf{\emph{PID}}, há necessidade de se estabelecer uma equação de controle. Esta \emph{equação de controle} procura simular o comportamento do sistema a ser controlado matematicamente. No caso de nosso sistema de controle, que vem a ser basicamente o controle de temperatura do LED LASER a ser utilizado no experimento, de acordo a descrição do projeto, vem a ser uma equação linear que corresponde a evolução do aquecimento do sistema. 
+
+Após a elaboração da \emph{equação de controle}, o estudo foi feito utilizando o \emph{Matlab\tiny\textregistered}. Através deste software, pode-se estabelecer os parâmetros de controle e simular diversas situações do sistema a ser implementado. 
+
+Durante as pesquisas de componentes a serem utilizados para implementação do circuito, encontrei um circuito que faz o papel de \emph{Drive} de pastilhas \textbf{\emph{Peltier}} e possibilita o controle de uma gama de temperaturas tanto do lado quente quanto do lado refrigerado do sistema. 
+Internamente a este circuito integrado, ele possui um circuito \emph{PID} que gerencia a temperatura controlando a mesma até o ponto de ajuste solicitado \textit{set point}. 
+
+Para gerenciamento do circuito fiz a opção de utilizar um Microcontrolador  \textbf{PIC} \emph{(Peripherical Interface Controller) } que utilizando de poucos componentes externos e através de um programa de controle, que após desenvolvido, é gravado no microcontrolador, faria, no caso deste circuito o controle dos displays de ajuste de temperatura e inserção do sinal no circuito \emph{MAX 1968}. O esquema deste sistema pode ser visto na figura 11 deste trabalho.
+
+Até este ponto da pesquisa proposta pela iniciação cientifica a qual se deveu este trabalho foi realizada no ano de 2017, e para inicio do ano de 2018 seria feita a implementação dos circuitos, testes e alterações que se fizessem necessárias. No entanto, o trabalho ficou parado nesse ponto da pesquisa e o circuito final não foi elaborado. 
+
+Apesar do trabalho ter ficado (por falte de condições minhas) incompleto, foi uma grande oportunidade de aprendizado tanto no desenvolvimento de circuitos elétricos como na \textbf{\emph{Físca da UFSC}} que me trouxe um conhecimento sobre o futuro laboratório de \emph{Física Atômica} em desenvolvimento na UFSC que tive muito orgulho em ter tido a chance de participar. 
+
+Agradeço também as orientações do \textbf{\emph{Jorge Douglas Massayuki Kondo, PHD}} e dos colegas ligados ao projeto. 
+
+

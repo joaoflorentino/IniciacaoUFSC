@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350) (preloaded format=pdflatex 2017.5.17)  3 JAN 2018 16:19
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350) (preloaded format=pdflatex 2017.5.17)  7 AUG 2018 16:18
 entering extended mode
 **./base01.tex
 (base01.tex
@@ -1438,7 +1438,7 @@ Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
 )
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 )
-<./ima/brasaoUFSC.jpg, id=74, 354.6048pt x 364.7226pt>
+<./ima/brasaoUFSC.jpg, id=78, 354.6048pt x 364.7226pt>
 File: ./ima/brasaoUFSC.jpg Graphic file (type jpg)
 
 <use ./ima/brasaoUFSC.jpg>
@@ -1524,7 +1524,7 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 101.
 
-(desenv1.tex <./ima/fluxo1.png, id=123, 428.60126pt x 664.4825pt>
+(desenv1.tex <./ima/fluxo1.png, id=128, 428.60126pt x 664.4825pt>
 File: ./ima/fluxo1.png Graphic file (type png)
 
 <use ./ima/fluxo1.png>
@@ -1555,7 +1555,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1--2
 
  []
 
-<./ima/DiagramaDeBlocos02Ftranferencia.png, id=138, 625.33624pt x 230.8625pt>
+<./ima/DiagramaDeBlocos02Ftranferencia.png, id=143, 625.33624pt x 230.8625pt>
 File: ./ima/DiagramaDeBlocos02Ftranferencia.png Graphic file (type png)
 
 <use ./ima/DiagramaDeBlocos02Ftranferencia.png>
@@ -1588,7 +1588,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--4
 
  []
 
-<./ima/DiaBlocos01.png, id=145, 569.12625pt x 225.84375pt>
+<./ima/DiaBlocos01.png, id=150, 569.12625pt x 225.84375pt>
 File: ./ima/DiaBlocos01.png Graphic file (type png)
 
 <use ./ima/DiaBlocos01.png>
@@ -1599,14 +1599,14 @@ Package babel Info: Redefining portuges shorthand "|
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 15.
  [7]
-<./ima/GrafRegulado2.png, id=156, 828.09375pt x 481.8pt>
+<./ima/GrafRegulado2.png, id=161, 828.09375pt x 481.8pt>
 File: ./ima/GrafRegulado2.png Graphic file (type png)
 
 <use ./ima/GrafRegulado2.png>
 Package pdftex.def Info: ./ima/GrafRegulado2.png used on input line 20.
 (pdftex.def)             Requested size: 409.71692pt x 238.38513pt.
 
-<./ima/GrafRegulado1.png, id=157, 828.09375pt x 481.8pt>
+<./ima/GrafRegulado1.png, id=162, 828.09375pt x 481.8pt>
 File: ./ima/GrafRegulado1.png Graphic file (type png)
 
 <use ./ima/GrafRegulado1.png>
@@ -1693,7 +1693,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 71--73
 
  []
 
-<./ima/peltier02.jpg, id=186, 1539.7525pt x 1606.0pt>
+<./ima/peltier02.jpg, id=191, 1539.7525pt x 1606.0pt>
 File: ./ima/peltier02.jpg Graphic file (type jpg)
 
 <use ./ima/peltier02.jpg>
@@ -1864,7 +1864,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 38--40
 )
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 127.
- (analmatlab1.tex <./ima/PID-Final01.png, id=202, 754.31813pt x 235.63031pt>
+ (analmatlab1.tex <./ima/PID-Final01.png, id=207, 754.31813pt x 235.63031pt>
 File: ./ima/PID-Final01.png Graphic file (type png)
 
 <use ./ima/PID-Final01.png>
@@ -1889,7 +1889,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 14--16
 
  []
 
-<./ima/LabAtomo01.png, id=209, 636.12656pt x 345.54094pt>
+<./ima/LabAtomo01.png, id=214, 636.12656pt x 345.54094pt>
 File: ./ima/LabAtomo01.png Graphic file (type png)
 
 <use ./ima/LabAtomo01.png>
@@ -1920,14 +1920,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--3
 
  []
 
-<./ima/esquemaCirucito-02.png, id=217, 1188.69093pt x 783.67781pt>
+<./ima/esquemaCirucito-02.png, id=222, 1188.69093pt x 783.67781pt>
 File: ./ima/esquemaCirucito-02.png Graphic file (type png)
 
 <use ./ima/esquemaCirucito-02.png>
 Package pdftex.def Info: ./ima/esquemaCirucito-02.png used on input line 7.
 (pdftex.def)             Requested size: 364.19667pt x 240.10358pt.
 
-<./ima/Layout-01.png, id=218, 596.98032pt x 511.15968pt>
+<./ima/Layout-01.png, id=223, 596.98032pt x 511.15968pt>
 File: ./ima/Layout-01.png Graphic file (type png)
 
 <use ./ima/Layout-01.png>
@@ -1972,7 +1972,7 @@ Package babel Info: Redefining portuges shorthand "|
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 37.
 [17 <./ima/Layout-01.png>]
-<./ima/esquemaDataSheet01.png, id=233, 509.65407pt x 514.17094pt>
+<./ima/esquemaDataSheet01.png, id=238, 509.65407pt x 514.17094pt>
 File: ./ima/esquemaDataSheet01.png Graphic file (type png)
 
 <use ./ima/esquemaDataSheet01.png>
@@ -2012,7 +2012,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1--3
 
  []
 
-<./ima/peltiercatalogo01.png, id=239, 150.5625pt x 127.22531pt>
+<./ima/peltiercatalogo01.png, id=244, 150.5625pt x 127.22531pt>
 File: ./ima/peltiercatalogo01.png Graphic file (type png)
 
 <use ./ima/peltiercatalogo01.png>
@@ -2023,13 +2023,21 @@ Package babel Info: Redefining portuges shorthand "|
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 37.
  [19 <./ima/peltiercatalogo01.png>])
-(base01.bbl)
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 146.
+(babel)             in language  on input line 140.
+
+(conclusao1.tex)
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 146.
- [20] (anexos1.tex
-<./anexos/LM741_Series_Rev_July_2016.pdf, id=253, 614.295pt x 794.97pt>
+(babel)             in language  on input line 143.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 143.
+ [20] (base01.bbl)
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 150.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 150.
+ [21] (anexos1.tex
+<./anexos/LM741_Series_Rev_July_2016.pdf, id=262, 614.295pt x 794.97pt>
 File: ./anexos/LM741_Series_Rev_July_2016.pdf Graphic file (type pdf)
 
 <use ./anexos/LM741_Series_Rev_July_2016.pdf>
@@ -2043,7 +2051,7 @@ Package pdftex.def Info: ./anexos/LM741_Series_Rev_July_2016.pdf used on input
 line 6.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 
-<./anexos/LM741_Series_Rev_July_2016.pdf, id=256, page=1, 614.295pt x 794.97pt>
+<./anexos/LM741_Series_Rev_July_2016.pdf, id=265, page=1, 614.295pt x 794.97pt>
 File: ./anexos/LM741_Series_Rev_July_2016.pdf Graphic file (type pdf)
 <use ./anexos/LM741_Series_Rev_July_2016.pdf, page 1>
 Package pdftex.def Info: ./anexos/LM741_Series_Rev_July_2016.pdf, page1 used on
@@ -2059,7 +2067,7 @@ Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 6.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 6.
- [21]
+ [22]
 File: ./anexos/LM741_Series_Rev_July_2016.pdf Graphic file (type pdf)
 
 <use ./anexos/LM741_Series_Rev_July_2016.pdf, page 1>
@@ -2082,11 +2090,11 @@ File: ./anexos/LM741_Series_Rev_July_2016.pdf Graphic file (type pdf)
 Package pdftex.def Info: ./anexos/LM741_Series_Rev_July_2016.pdf, page1 used on
  input line 6.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
- [22 <./anexos/LM741_Series_Rev_July_2016.pdf>]
+ [23 <./anexos/LM741_Series_Rev_July_2016.pdf>]
 
 pdfTeX warning: pdflatex.exe (file ./anexos/MAX1968.pdf): PDF inclusion: found 
 PDF version <1.6>, but at most version <1.5> allowed
-<./anexos/MAX1968.pdf, id=328, 614.295pt x 794.97pt>
+<./anexos/MAX1968.pdf, id=337, 614.295pt x 794.97pt>
 File: ./anexos/MAX1968.pdf Graphic file (type pdf)
 
 <use ./anexos/MAX1968.pdf>
@@ -2108,7 +2116,7 @@ PDF version <1.6>, but at most version <1.5> allowed
 
 pdfTeX warning: pdflatex.exe (file ./anexos/MAX1968.pdf): PDF inclusion: found 
 PDF version <1.6>, but at most version <1.5> allowed
-<./anexos/MAX1968.pdf, id=331, page=1, 614.295pt x 794.97pt>
+<./anexos/MAX1968.pdf, id=340, page=1, 614.295pt x 794.97pt>
 File: ./anexos/MAX1968.pdf Graphic file (type pdf)
 
 <use ./anexos/MAX1968.pdf, page 1>
@@ -2136,11 +2144,11 @@ File: ./anexos/MAX1968.pdf Graphic file (type pdf)
 <use ./anexos/MAX1968.pdf, page 1>
 Package pdftex.def Info: ./anexos/MAX1968.pdf, page1 used on input line 9.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
- [23 <./anexos/MAX1968.pdf>]
+ [24 <./anexos/MAX1968.pdf>]
 
 pdfTeX warning: pdflatex.exe (file ./anexos/PIC16F87XA.pdf): PDF inclusion: fou
 nd PDF version <1.6>, but at most version <1.5> allowed
-<./anexos/PIC16F87XA.pdf, id=385, 614.295pt x 794.97pt>
+<./anexos/PIC16F87XA.pdf, id=394, 614.295pt x 794.97pt>
 File: ./anexos/PIC16F87XA.pdf Graphic file (type pdf)
 
 <use ./anexos/PIC16F87XA.pdf>
@@ -2162,7 +2170,7 @@ nd PDF version <1.6>, but at most version <1.5> allowed
 
 pdfTeX warning: pdflatex.exe (file ./anexos/PIC16F87XA.pdf): PDF inclusion: fou
 nd PDF version <1.6>, but at most version <1.5> allowed
-<./anexos/PIC16F87XA.pdf, id=388, page=1, 614.295pt x 794.97pt>
+<./anexos/PIC16F87XA.pdf, id=397, page=1, 614.295pt x 794.97pt>
 File: ./anexos/PIC16F87XA.pdf Graphic file (type pdf)
 
 <use ./anexos/PIC16F87XA.pdf, page 1>
@@ -2190,8 +2198,8 @@ File: ./anexos/PIC16F87XA.pdf Graphic file (type pdf)
 <use ./anexos/PIC16F87XA.pdf, page 1>
 Package pdftex.def Info: ./anexos/PIC16F87XA.pdf, page1 used on input line 11.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
- [24 <./anexos/PIC16F87XA.pdf>]
-<./anexos/FonteSimetricaLabAtomo.pdf, id=409, 1091.44763pt x 730.09763pt>
+ [25 <./anexos/PIC16F87XA.pdf>]
+<./anexos/FonteSimetricaLabAtomo.pdf, id=419, 1091.44763pt x 730.09763pt>
 File: ./anexos/FonteSimetricaLabAtomo.pdf Graphic file (type pdf)
 
 <use ./anexos/FonteSimetricaLabAtomo.pdf>
@@ -2205,7 +2213,7 @@ Package pdftex.def Info: ./anexos/FonteSimetricaLabAtomo.pdf used on input line
  14.
 (pdftex.def)             Requested size: 1091.44498pt x 730.09586pt.
 
-<./anexos/FonteSimetricaLabAtomo.pdf, id=412, page=1, 1091.44763pt x 730.09763p
+<./anexos/FonteSimetricaLabAtomo.pdf, id=422, page=1, 1091.44763pt x 730.09763p
 t>
 File: ./anexos/FonteSimetricaLabAtomo.pdf Graphic file (type pdf)
  <use ./anexos/FonteSimetricaLabAtomo.pdf, page 1>
@@ -2222,7 +2230,7 @@ Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 14.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 14.
- [25]
+ [26]
 File: ./anexos/FonteSimetricaLabAtomo.pdf Graphic file (type pdf)
 
 <use ./anexos/FonteSimetricaLabAtomo.pdf, page 1>
@@ -2245,14 +2253,14 @@ File: ./anexos/FonteSimetricaLabAtomo.pdf Graphic file (type pdf)
 Package pdftex.def Info: ./anexos/FonteSimetricaLabAtomo.pdf, page1 used on inp
 ut line 14.
 (pdftex.def)             Requested size: 597.74998pt x 399.85046pt.
- [26 <./anexos/FonteSimetricaLabAtomo.pdf>])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 152.
-Package atveryend Info: Executing hook `AfterLastShipout' on input line 152.
+ [27 <./anexos/FonteSimetricaLabAtomo.pdf>])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 156.
+Package atveryend Info: Executing hook `AfterLastShipout' on input line 156.
  (base01.xwm) (base01.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 152.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 152.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 156.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 156.
 Package rerunfilecheck Info: File `base01.out' has not changed.
-(rerunfilecheck)             Checksum: 7DB9B8130642F3B202C0691C4814B826;1321.
+(rerunfilecheck)             Checksum: 90CD3B73DE8D5E78BC22A9C9AC76BF7E;1370.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -2260,13 +2268,13 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 152.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 156.
  ) 
 Here is how much of TeX's memory you used:
- 35180 strings out of 495232
- 817729 string characters out of 3181926
- 1032273 words of memory out of 3000000
- 37688 multiletter control sequences out of 15000+200000
+ 35188 strings out of 495232
+ 817832 string characters out of 3181926
+ 1032251 words of memory out of 3000000
+ 37691 multiletter control sequences out of 15000+200000
  15362 words of font info for 57 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
  61i,18n,100p,1432b,863s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -2283,9 +2291,9 @@ rogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program F
 iles/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Program Files/MiKT
 eX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files/MiKTeX 2.9/fo
 nts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on base01.pdf (26 pages, 1319576 bytes).
+Output written on base01.pdf (27 pages, 1326202 bytes).
 PDF statistics:
- 494 PDF objects out of 1000 (max. 8388607)
- 83 named destinations out of 1000 (max. 500000)
- 294 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 504 PDF objects out of 1000 (max. 8388607)
+ 85 named destinations out of 1000 (max. 500000)
+ 302 words of extra memory for PDF output out of 10000 (max. 10000000)
 
